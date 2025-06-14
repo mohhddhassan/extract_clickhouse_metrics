@@ -56,12 +56,6 @@ If you're curious how to use Airflow to automate metric collection from ClickHou
 
 ---
 
-## 📸 Proof of Work
-
-(Screenshots of Airflow DAG runs, CSV outputs, or ClickHouse metrics can go here)
-
----
-
 ## 👋 About Me
 
 **Mohamed Hussain S**  
